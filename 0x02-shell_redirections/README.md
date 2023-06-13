@@ -1,1 +1,1 @@
-display all the lines in the file that do not contain a pattern
+display all the lines of a file starting with a letter
