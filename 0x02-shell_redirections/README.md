@@ -1,1 +1,1 @@
-replace characters from inputs respectively
+create a script that removes all letters from input
