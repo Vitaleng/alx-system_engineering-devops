@@ -1,1 +1,1 @@
-write a script that writes into a file
+write a script that duplicates the last line of a file
