@@ -1,1 +1,1 @@
-write a script that displays the third line of a file
+write a shell that creates a file
