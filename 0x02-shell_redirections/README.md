@@ -1,1 +1,1 @@
-Write a command that finds all empty files and directories in the current directory and all sub-directories.
+write a script that lists all files with an extension in the current directory and all its sub-directories
